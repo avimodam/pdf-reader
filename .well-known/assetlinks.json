@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "me.flamesy.pdf.reader.dev",
+               "sha256_cert_fingerprints": ["A5:C3:5A:40:D5:C5:F7:1E:F5:23:F2:6A:4B:61:C9:60:24:BF:E0:13:50:7B:01:BF:F7:FC:53:52:15:E3:56:DC"] }
+}]
